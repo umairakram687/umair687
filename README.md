@@ -10,7 +10,7 @@ I'm a final year student pursuing Bachelors's in Computer Science from NCBA&E. I
 
 ## About Me
 
-- 🔭 I’m currently working on **[Human Gender Classification]**
+- 🔭 I’m currently working on **autonomous-quadcoptor**
 
 - 🌱 I’m currently learning **Django & Data Engineering.**
 
