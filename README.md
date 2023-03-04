@@ -18,7 +18,7 @@ I'm a final year student pursuing Bachelors's in Computer Science from NCBA&E. I
 
 - 💬 Ask me about Anything, I would happy to help.
 
-- 📫 How to reach me **andulmateen242@gmail.com**
+- 📫 How to reach me **abdmateen.dev@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
